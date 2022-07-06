@@ -15,5 +15,5 @@ for n in range(1,10):
 text='ABCDEFGHIJ'
 for n in range(1,10):
     for i in text:
-     print( f'{i}-{i}')
+     print( f'{i}-{n}')
      
