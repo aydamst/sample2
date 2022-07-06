@@ -4,6 +4,7 @@ while n<=10:
      n=n+1
      for i in text:
       print(f'{i}-{n-1}')
+     print ("Ayda")
       
      
 text='ABCDEFGHIJ'
